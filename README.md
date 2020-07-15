@@ -22,4 +22,4 @@ I'm Chaitanyasuma. Here's a little bit about me -
 
 :herb: Connect with me on [Medium](https://medium.com/@chaitanyasuma) or [LinkedIn](https://www.linkedin.com/in/chaitanyasuma-jain-96712a170/)
 
-:sunflower: Fun fact: I enjoy listening to K-pop and understanding different cultures
+:sunflower: Fun fact: I enjoy listening to K-pop and learning about different cultures
