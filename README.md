@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 I'm Chaitanyasuma. Here's a little bit about me -
 
 :four_leaf_clover: I've previously worked on Progressive Web Application Development, Android Development, Data Visualisation, Data Mining, and taken tiny steps into the world of Machine Learning and Natural Language Processing
+
 :blossom: I'm a full-time reader, and a part-time Computer Engineering Undergraduate student
+
 :herb: Connect with me on [Medium](https://medium.com/@chaitanyasuma) or [LinkedIn](https://www.linkedin.com/in/chaitanyasuma-jain-96712a170/)
+
 :sunflower: Fun fact: I enjoy listening to K-pop and reading about different cultures
