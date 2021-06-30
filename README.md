@@ -20,7 +20,7 @@ I'm Chaitanyasuma. Here's a little bit about me -
 
 :blossom: I'm a full-time reader, and a part-time Computer Engineering Undergraduate student
 
-:herb: Connect with me on [Medium](https://medium.com/@chaitanyasuma) or [LinkedIn](https://www.linkedin.com/in/chaitanyasuma-jain-96712a170/) or [Twitter](https://twitter.com/chaispirits)!
+:herb: Connect with me on [Medium](https://chaitanyasuma.medium.com/) or [LinkedIn](https://www.linkedin.com/in/chaitanyasuma/) or [Twitter](https://twitter.com/chaitanyasumaa)!
 
 :sunflower: Fun fact: I enjoy listening to K-pop and learning about different cultures
 
