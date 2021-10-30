@@ -24,4 +24,4 @@ I'm Chaitanyasuma. Here's a little bit about me -
 
 :sunflower: Fun fact: I enjoy listening to K-pop and learning about different cultures
 
-Technologies I have preciously worked with - Angular, Spring, Hibernate, Android Studio, Anaconda, MATLAB/Octave
+Technologies I have previously worked with - Angular, Spring, Hibernate, Android Studio, Anaconda, MATLAB/Octave
