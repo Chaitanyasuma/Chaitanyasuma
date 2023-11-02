@@ -22,7 +22,7 @@ I'm Chaitanyasuma. Here's a little bit about me -
 
 :bamboo: My technical experience and expertise includes Data Visualisation, Statistical Data Analysis, Differential Privacy, Text Analysis, Cloud-Native Databases, Backend Development, and Progressive Web Application Development
 
-:blossom: More about my projects [here](chaitanyasuma.github.io)
+:blossom: More about my projects [here](https://chaitanyasuma.github.io)
 
 :herb: Connect with me on [Medium](https://chaitanyasuma.medium.com/) or [LinkedIn](https://www.linkedin.com/in/chaitanyasuma/) or [Twitter](https://twitter.com/chaitanyasumaa)!
 
