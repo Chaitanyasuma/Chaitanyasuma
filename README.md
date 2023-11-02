@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Also find me on [chaitanyasumajain](https://github.com/chaitanyasumajain)
+
 <!--
 **Chaitanyasuma/Chaitanyasuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
