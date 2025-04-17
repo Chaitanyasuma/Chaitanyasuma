@@ -20,7 +20,7 @@ I'm Chaitanyasuma. Here's a little bit about me -
 
 :four_leaf_clover: I am currently a graduate student in Computer Science at the University of Wisconsin-Madison
 
-:bamboo: My technical experience and expertise includes Data Visualisation, Statistical Data Analysis, Differential Privacy, Text Analysis, Cloud-Native Databases, Backend Development, and Progressive Web Application Development
+:bamboo: My technical experience and expertise includes Data Visualisation, Differential Privacy, and Cloud-native Databases
 
 :blossom: More about my projects [here](https://sites.google.com/view/chaitanyasumajain)
 
